@@ -1,5 +1,6 @@
 ## Tshingshui Lab 👋
 
+We are making something insignificant, but we feel great about it
 <!--
 
 **Here are some ideas to get you started:**
